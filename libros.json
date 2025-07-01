@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "La muerte ajena",
+        "autor": "Claudia Piñeiro",
+        "portada": "img/libros/pineiro.webp",
+        "precio": 27000,
+        "genero": "Ensayo",
+        "idioma": "Español",
+        "descripcion": "Una crónica íntima sobre el modo en que la sociedad y el sistema de salud enfrentan la muerte, contada con sensibilidad, ironía y mirada crítica.",
+        "stock": 3,
+        "isbn": "9786313011797",
+        "editorial": "Alfaguara"
+    },
+    {
+        "nombre": "Mi nombre es Emilia del Valle",
+        "autor": "Isabel Allende",
+        "portada": "img/libros/allende.webp",
+        "precio": 28000,
+        "genero": "Narrativa",
+        "idioma": "Español",
+        "descripcion": "Allende narra la historia de una mujer marcada por el destino, el amor y la memoria. Una saga personal que atraviesa pasiones, dolores y secretos de familia.",
+        "stock": 7,
+        "isbn": "9789500771870",
+        "editorial": "Sudamericana"
+    },
+    {
+        "nombre": "Demon Copperhead",
+        "autor": "Barbara Kingsolver",
+        "portada": "img/libros/kingsolver.webp",
+        "precio": 32000,
+        "genero": "Narrativa",
+        "idioma": "Español",
+        "descripcion": "Un joven criado en la pobreza rural de Estados Unidos lucha por sobrevivir en un mundo hostil. Una novela poderosa sobre la marginalidad, el abandono y la búsqueda de identidad.",
+        "stock": 1,
+        "isbn": "9788419552624",
+        "editorial": "Navona Editorial"
+    },
+    {
+        "nombre": "La vegetariana",
+        "autor": "Han Kang",
+        "portada": "img/libros/kang.webp",
+        "precio": 21000,
+        "genero": "Narrativa",
+        "idioma": "Español",
+        "descripcion": "Una decisión aparentemente simple — dejar de comer carne — desata el caos en la vida de una mujer surcoreana. Una historia perturbadora sobre deseo, represión y libertad corporal.",
+        "stock": 9,
+        "isbn": "9789877693836",
+        "editorial": "Random House"
+    },
+    {
+        "nombre": "El asesino ciego",
+        "autor": "Margaret Atwood",
+        "portada": "img/libros/atwood.webp",
+        "precio": 40000,
+        "genero": "Narrativa",
+        "idioma": "Español",
+        "descripcion": "Una narración dentro de otra revela secretos familiares y amores prohibidos. Atwood construye un juego literario brillante entre ciencia ficción, tragedia y memoria.",
+        "stock": 5,
+        "isbn": "9789878001920",
+        "editorial": "Salamandra"
+    },
+    {
+        "nombre": "Tienes que mirar",
+        "autor": "Anna Starobinets",
+        "portada": "img/libros/starobinets.webp",
+        "precio": 28000,
+        "genero": "Memorias",
+        "idioma": "Español",
+        "descripcion": "Tras recibir un diagnóstico devastador para su hijo por nacer, la autora enfrenta el sistema médico ruso. Un testimonio crudo, desgarrador y necesario sobre maternidad, duelo y silencio social.",
+        "stock": 4,
+        "isbn": "9788417553906",
+        "editorial": "Impedimenta"
+    },
+    {
+        "nombre": "El buen mal",
+        "autor": "Samanta Schweblin",
+        "portada": "img/libros/schweblin.webp",
+        "precio": 22000,
+        "genero": "Narrativa",
+        "idioma": "Español",
+        "descripcion": "Cuentos inquietantes que exploran lo extraño en lo cotidiano. Schweblin desliza el horror con sutileza, dejando que la realidad se deslice suavemente hacia lo perturbador.",
+        "stock": 6,
+        "isbn": "9789877693898",
+        "editorial": "Random House"
+    },
+    {
+        "nombre": "La casa Neville",
+        "autor": "Florencia Bonelli",
+        "portada": "img/libros/bonelli.webp",
+        "precio": 37000,
+        "genero": "Narrativa",
+        "idioma": "Español",
+        "descripcion": "En el marco de una Inglaterra del siglo XIX marcada por secretos y pasiones, una mujer desafía su destino. Bonelli mezcla romance, misterio e historia en una novela cautivante.",
+        "stock": 8,
+        "isbn": "9789504987895",
+        "editorial": "Planeta"
+    },
+    {
+        "nombre": "The Crimes of Grindelwald",
+        "autor": "J.K. Rowling",
+        "portada": "img/libros/rowling.jpg",
+        "precio": 27000,
+        "genero": "Narrativa",
+        "idioma": "Inglés",
+        "descripcion": "El mundo mágico entra en crisis mientras Grindelwald reúne aliados. Un guion lleno de magia, secretos y decisiones que marcarán el destino de todos.",
+        "stock": 0,
+        "isbn": "9781408711705",
+        "editorial": "Little Brown Usa."
+    },
+    {
+        "nombre": "The Memory Police",
+        "autor": "Yoko Ogawa",
+        "portada": "img/libros/ogawa.jpg",
+        "precio": 22000,
+        "genero": "Memorias",
+        "idioma": "Inglés",
+        "descripcion": "En una isla donde los objetos desaparecen, una mujer intenta conservar sus recuerdos. Una historia inquietante sobre el olvido y la fragilidad de la identidad.",
+        "stock": 3,
+        "isbn": "9781101911815",
+        "editorial": "Vintage"
+    }
+]
